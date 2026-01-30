@@ -1,0 +1,5 @@
+# TextForge Python backend: LLM + Embeddings for RAG
+flask>=2.3.0
+transformers>=4.30.0
+torch>=2.0.0
+sentence-transformers>=2.2.0
