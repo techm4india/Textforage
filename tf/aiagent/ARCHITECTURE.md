@@ -1,7 +1,7 @@
 # TextForge RAG Architecture Design
 **Senior AI Systems Architect Review**  
 **Date:** 2026-01-28  
-**Status:** Architectural Specification (Implementation Pending)
+**Status:** Architectural Specification. Node backend implemented in `tf/backend` (see repo README to run full stack).
 
 ---
 
